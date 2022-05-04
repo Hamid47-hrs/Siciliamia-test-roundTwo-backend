@@ -1,0 +1,21 @@
+{
+  "name": "test_tound_two_backend",
+  "version": "1.0.0",
+  "description": "node.js project for storing data in mongo database",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test_round_two"
+  ],
+  "author": "hamid reza sadati",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "mongoose": "^6.2.1",
+    "nodemon": "^2.0.16"
+  }
+}
